@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173b34">
+  <meta name="description" content="词研 · 2027 CFA 一级独立练习。英文题干、中文解析、金融词卡，本机保存学习进度。">
+  <title>词研 · 2027 一级练习</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="./icons/icon-180.png">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./main.js"></script>
+</head>
+<body>
+  <a class="skip" href="#screen-title">跳到学习区</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#practice"><img src="./icons/icon-192.png" width="42" height="42" alt=""><span>词研<small>投资学习</small></span></a>
+      <nav aria-label="学习导航">
+        <a href="#practice" data-view="practice">练习</a>
+        <a href="#cards" data-view="cards">词卡</a>
+        <a href="#lexicon" data-view="lexicon">词库</a>
+        <a href="#settings" data-view="settings">资料与备份</a>
+      </nav>
+      <span class="edition">2027 · CFA 一级</span>
+    </div>
+  </header>
+  <main id="screen">
+    <h1 id="screen-title" tabindex="-1">词研</h1>
+    <p>正在加载题库与本机进度…</p>
+    <noscript>请启用 JavaScript 后再打开词研。</noscript>
+  </main>
+  <div id="notice" role="status" class="notice" hidden></div>
+  <dialog id="term-dialog" aria-labelledby="term-title">
+    <div class="dialog-inner" id="term-content"></div>
+  </dialog>
+  <footer class="site-footer">
+    <span>词研 · 独立学习项目</span>
+    <span id="offline-state" role="status">正在准备离线内容</span>
+  </footer>
+</body>
+</html>
