@@ -1,0 +1,301 @@
+# Topic|English term|Chinese term|Chinese explanation|Optional English aliases, comma separated
+ethics|fiduciary duty|信义义务|受托人在授权范围内为受益人利益谨慎行事，并处理与自身利益的冲突。
+ethics|independence and objectivity|独立性与客观性|投资判断应基于证据，避免受礼物、关系或施压扭曲。
+ethics|material nonpublic information|重大非公开信息|尚未向市场公开且可能影响理性投资者决策或证券价格的信息。
+ethics|mosaic theory|拼图理论|通过结合公开信息与非重大非公开信息得出投资判断。
+ethics|fair dealing|公平交易|向客户分发建议、执行交易与分配机会时，应按公平且一致的规则处理。
+ethics|suitability|适当性|根据客户目标、约束和组合整体风险判断投资是否合适。
+ethics|performance presentation|业绩呈现|准确说明业绩计算口径、范围、期限及重要限制，使读者不被误导。
+ethics|conflict of interest|利益冲突|个人或机构的其他利益可能妨碍其对客户或雇主应尽的义务。
+ethics|referral fee|推荐费|为介绍客户或服务提供者而收付的费用、补偿或其他利益。
+ethics|priority of transactions|交易优先顺序|客户和雇主的相关交易应优先于从业者有受益权的个人交易。
+ethics|reasonable basis|合理依据|投资结论应基于足以支持判断的研究、证据和检查。
+ethics|record retention|记录保留|保留支持研究、建议、交易和客户沟通的必要材料。
+ethics|confidentiality|保密义务|妥善保护客户和潜在客户的非公开信息，按适用规则处理例外。
+ethics|misrepresentation|虚假陈述|以错误陈述、遗漏关键信息或不当归属误导他人。
+ethics|market manipulation|市场操纵|以误导性信息或交易行为人为扭曲市场价格、成交量或判断。
+ethics|duty of loyalty|忠诚义务|在承接职责时优先考虑应受保护一方的利益。
+ethics|duty of care|谨慎义务|以胜任且审慎的方式执行职责，核查并监测重要事项。
+ethics|prudent person|审慎人标准|用处于相似情境的谨慎、胜任人士会采取的行为衡量决策。
+ethics|client mandate|客户委托约定|明确投资范围、目标、约束及双方职责的书面或约定授权。
+ethics|disclosure|披露|及时清晰地告知可能影响决策的关系、风险、假设或费用。
+ethics|pro rata allocation|按比例分配|根据合格申请数量或份额等预定基数同比例分配有限资源。|pro rata
+ethics|front running|抢先交易|利用已知即将执行的客户或机构订单先为自己交易获益。|front-running
+ethics|soft dollars|软佣金|以经纪交易佣金而非单独现金支付换取研究或其他经纪服务的安排。
+ethics|additional compensation|额外报酬|正常雇佣报酬以外、可能与职责产生利益冲突的报酬或利益。
+ethics|supervisory responsibility|监督责任|负有管理职责者应采取合理措施建立并执行监督和合规流程。
+ethics|due diligence|尽职调查|在作出建议、估值或选择合作方之前，核对重要事实和假设。
+ethics|selective disclosure|选择性披露|仅向部分对象提供可能影响决策的重要信息的做法。
+ethics|composite|组合群|按共同投资策略或目标归集用于业绩展示的一组投资组合。
+ethics|plagiarism|剽窃|将他人的文字、观点或分析呈现为自己的成果而缺少适当归属。
+ethics|whistleblowing|违规举报|向适当的内部或外部渠道报告涉嫌违规或不当行为。
+quant|geometric mean return|几何平均收益率|各期增长因子连乘后取相应次方根，再减 1，表示每期等效复合收益。|geometric return
+quant|arithmetic mean return|算术平均收益率|各期简单收益率求和后除以期数，用于描述观测期的平均水平。
+quant|required return|必要收益率|投资者为承担给定时间和风险而要求的最低预期收益率。
+quant|present value|现值|未来现金流按适用利率折算到当前时点的价值。
+quant|future value|终值|当前金额或现金流按复利推算到未来指定时点的价值。
+quant|discount factor|折现因子|将未来一个货币单位折回估值时点的乘数。
+quant|compounding|复利|利息或收益被计入本金，并在后续期间继续产生收益。
+quant|holding period return|持有期收益率|持有期间的价值变化和分配收入之和相对于期初价值的比率。
+quant|money-weighted return|资金加权收益率|考虑外部现金流规模和时点、通常由内部收益率求得的投资回报。|MWR
+quant|time-weighted return|时间加权收益率|分外部资金流时间点计算子期回报并连乘，削弱申赎规模与时点影响。|TWR
+quant|variance|方差|随机变量相对均值的平方偏差的期望，或其样本估计。
+quant|standard deviation|标准差|方差的平方根，与原变量使用相同单位。
+quant|covariance|协方差|反映两个变量相对均值如何共同变动的带单位量。
+quant|correlation|相关系数|标准化协方差，描述线性共同变动的方向和强度。
+quant|skewness|偏度|描述分布不对称程度，右尾相对较长通常体现为正偏。
+quant|kurtosis|峰度|标准化的四阶中心矩，对远离均值的大幅观测较敏感。
+quant|conditional probability|条件概率|在另一事件已发生的条件下，指定事件发生的概率。
+quant|Bayes' rule|贝叶斯公式|利用先验概率和条件似然，把新证据转化为后验概率。|bayes
+quant|sampling distribution|抽样分布|按同一抽样过程重复取样时，统计量可能取值的分布。
+quant|standard error|标准误|统计量抽样分布的标准差，表示估计在重复抽样中的波动。
+quant|confidence interval|置信区间|由样本构造的区间，其生成程序在重复抽样中具有规定覆盖率。
+quant|null hypothesis|原假设|统计检验中假定成立、由数据提供反对证据的命题。
+quant|p-value|p 值|假定原假设成立时，得到与观察值至少同样极端的检验统计量的概率。
+quant|Monte Carlo simulation|蒙特卡洛模拟|从设定的概率模型中反复抽样，以近似结果分布。|simulation
+quant|bootstrap|自助法|通常从观测样本有放回地重复抽样，以估计统计量的抽样性质。
+quant|portfolio variance|组合方差|收益风险的平方度量，由权重、个别资产方差和资产间协方差共同决定。
+quant|portfolio optimization|组合优化|在投资约束下求解使收益、风险或效用目标最适宜的资产权重。
+quant|look-ahead bias|前视偏差|在历史检验中使用策略当时实际上无法取得的信息。|data leakage
+quant|out-of-sample test|样本外检验|用未参与拟合或参数选择的数据检验模型的泛化能力。|out-of-sample
+quant|large language model|大语言模型|在大量语言数据上训练的模型，可理解与生成文本，产出需核对。|LLM,language model
+econ|price elasticity of demand|需求价格弹性|需求量百分比变动相对于商品自身价格百分比变动的比率。|own-price elasticity
+econ|income elasticity|收入弹性|需求量百分比变动相对于消费者收入百分比变动的比率。
+econ|cross-price elasticity|交叉价格弹性|一种商品的需求量百分比变动相对于另一商品价格变动的比率。
+econ|marginal cost|边际成本|产出增加一单位带来的总成本增量。
+econ|opportunity cost|机会成本|选择某项行动时放弃的最佳可行替代方案的价值。
+econ|sunk cost|沉没成本|已发生且不能收回的成本，不应影响当前的增量方案比较。
+econ|externality|外部性|某方行动对第三方造成、未被交易价格充分反映的成本或利益。
+econ|comparative advantage|比较优势|以较低机会成本生产某种商品或服务的能力。
+econ|tariff|关税|对进口或出口商品征收的税，通常按价值或数量计征。
+econ|exchange rate|汇率|用一种货币表示的另一种货币单位的价格。
+econ|spot exchange rate|即期汇率|约定在通常近期结算日兑换两种货币的价格。
+econ|forward exchange rate|远期汇率|今天确定、在指定未来日期兑换货币的价格。
+econ|forward premium|远期升水|同一报价口径下某货币的远期价格高于即期价格。
+econ|forward discount|远期贴水|同一报价口径下某货币的远期价格低于即期价格。
+econ|cross rate|交叉汇率|通过各自对同一第三种货币的报价推导的双边汇率。
+econ|purchasing power parity|购买力平价|从可比商品购买力解释两种货币相对价值的理论。|PPP
+econ|monetary policy|货币政策|中央银行通过政策利率、流动性或其他工具影响金融条件和宏观目标。
+econ|fiscal policy|财政政策|政府通过支出、税收和转移支付调整总需求或资源配置。
+econ|policy rate|政策利率|中央银行设定或引导、用来传导货币政策的短期利率。
+econ|inflation|通货膨胀|一定期间总体价格水平持续上升。
+econ|deflation|通货紧缩|一定期间总体价格水平持续下降。
+econ|nominal GDP|名义国内生产总值|以当期市场价格计量的本期境内最终产品与服务价值。
+econ|real GDP|实际国内生产总值|按可比价格衡量的境内最终产品与服务产出，剔除价格变化的影响。
+econ|GDP deflator|GDP 平减指数|名义 GDP 与对应实际 GDP 之比，通常以基期 100 表示。
+econ|aggregate demand|总需求|在给定总体价格水平下，经济各部门对最终产品和服务的总支出。
+econ|business cycle|经济周期|经济活动经历扩张、峰值、收缩和谷底等阶段的波动。
+econ|price ceiling|价格上限|对合法交易价格设置的最高值，低于均衡时可能造成短缺。
+econ|perfect competition|完全竞争|众多价格接受者提供同质产品，单个卖方难以改变市场价格。
+econ|oligopoly|寡头竞争|少数企业占有较大市场份额，彼此决策存在战略依赖。
+econ|monopoly|垄断|单一卖方在缺少近似替代品的市场中拥有显著定价权。
+fsa|balance sheet|资产负债表|反映特定日期的资产、负债和所有者权益。
+fsa|income statement|利润表|反映一个期间的收入、费用以及相应利润。
+fsa|cash flow statement|现金流量表|按经营、投资和筹资活动列示期间现金和现金等价物的变动。
+fsa|operating cash flow|经营活动现金流|日常经营活动现金流入与流出的净额。|CFO
+fsa|accrual accounting|权责发生制|按照权利义务和履约时点确认收入或费用，现金结算可在不同期间。
+fsa|accounts receivable|应收账款|通常起因于赊销、客户尚未支付给企业的对价。|trade receivables,receivables
+fsa|inventory|存货|持有以供销售、正处生产中或将在生产中耗用的资产。
+fsa|cost of goods sold|销售成本|本期已售商品相应的存货成本。|COGS
+fsa|FIFO|先进先出|存货成本分配中假设较早购入或生产的单位先被售出。
+fsa|depreciation|折旧|在使用寿命内系统分摊有形非流动资产的可折旧金额。
+fsa|residual value|残值|资产达到预期寿命终点时，预计处置可收回的净额。
+fsa|straight-line depreciation|直线折旧|以同等时间单位平均分配资产可折旧金额的方法。
+fsa|amortization|摊销|在适用期限内系统分配无形资产成本或某些其他项目差额。
+fsa|impairment|减值|当资产账面金额超过按适用准则确定的可收回金额时确认的降低。
+fsa|deferred tax asset|递延所得税资产|由可抵扣暂时性差异、税务亏损等产生并满足确认条件的未来税收利益。|DTA
+fsa|deferred tax liability|递延所得税负债|由应纳税暂时性差异等产生、与未来额外应交所得税相关的负债。|DTL
+fsa|temporary difference|暂时性差异|资产或负债账面金额与计税基础之间、未来通常会转回的差异。
+fsa|contract liability|合同负债|企业已收或应收客户款项、仍须向客户转让商品或服务的义务。
+fsa|revenue recognition|收入确认|确定何时以及按多少金额在财务报表确认取得的收入。
+fsa|right-of-use asset|使用权资产|租赁期内使用标的资产的合同权利对应的资产。
+fsa|lease liability|租赁负债|承租人按约定支付租赁付款的现时义务。
+fsa|diluted EPS|稀释每股收益|在考虑具有稀释作用的潜在普通股及相应利润调整后计算的每股收益。
+fsa|quick ratio|速动比率|通常用现金、可流通短期证券和应收款合计除以流动负债。
+fsa|current ratio|流动比率|流动资产除以流动负债，用于观察短期偿债缓冲。
+fsa|common-size statement|共同比报表|把多个报表项目除以同一基数，以便比较结构和变化。|common-size income statement
+fsa|interest coverage|利息保障倍数|通常用 EBIT 除以利息费用，衡量经营收益对付息的覆盖。
+fsa|DuPont analysis|杜邦分析|把净资产收益率拆成利润率、资产周转和财务杠杆等驱动项。|DuPont
+fsa|asset turnover|资产周转率|收入相对于一定期间平均总资产的比率。
+fsa|equity multiplier|权益乘数|资产与权益之比，杜邦分解中通常使用可比期间均值。
+fsa|earnings quality|盈余质量|报告利润真实反映业务表现、可持续性和现金生成能力的程度。
+corp|net present value|净现值|按适当折现率计算的项目未来现金流现值减去初始净投入。|NPV
+corp|internal rate of return|内部收益率|使一组现金流净现值为零的折现率。|IRR
+corp|cost of capital|资本成本|为获得各类融资并补偿其提供者承担风险所需的收益率。
+corp|weighted average cost of capital|加权平均资本成本|按目标融资权重合成股权、税后债务等各项资本成本。|WACC
+corp|capital rationing|资本配给|当资本预算有限时，在若干可投资项目间分配资金。
+corp|mutually exclusive projects|互斥项目|接受一个项目后就无法再接受另一项目的备选投资。
+corp|incremental cash flow|增量现金流|因接受某项决策而相对于可比基准发生的现金流差额。
+corp|payback period|回收期|项目累计现金流达到初始投资额所需时间。
+corp|discounted payback|折现回收期|折现后的未来现金流累计覆盖初始投资额所需时间。
+corp|sensitivity analysis|敏感性分析|检验单一或若干输入变化如何影响模型结果。
+corp|scenario analysis|情景分析|用经济含义一致的一组输入假设评估不同情景的结果。
+corp|operating leverage|经营杠杆|固定营运成本使利润相对于销售量变化的敏感性扩大。
+corp|financial leverage|财务杠杆|债务等固定融资义务对股权收益与风险的放大作用。
+corp|contribution margin|边际贡献|收入减去可变成本后的金额，可用来承担固定成本和利润。
+corp|capital structure|资本结构|企业使用债务、股权等资金来源的构成。
+corp|working capital|营运资本|常指流动资产减流动负债，分析时可按经营口径调整。
+corp|cash conversion cycle|现金转换周期|存货天数加应收天数减应付天数，表示经营资金净占用时间。|CCC
+corp|days inventory outstanding|存货周转天数|从购入或生产到销售平均占用存货的天数。|DIO
+corp|days sales outstanding|应收周转天数|从确认销售到收款的平均天数。|DSO
+corp|days payable outstanding|应付周转天数|从得到供应商采购货物或服务到付款的平均天数。|DPO
+corp|trade credit|贸易信用|供应商允许买方在交付后按约定期限付款的短期融资。
+corp|agency conflict|代理冲突|代理人目标与委托人利益不一致，可能偏离委托目标。
+corp|corporate governance|公司治理|董事会、管理层及其他利益相关方之间的权责、监督和问责安排。
+corp|independent director|独立董事|与管理层和其他相关方没有可能显著影响独立判断关系的董事。
+corp|stakeholder|利益相关方|能影响企业经营或受企业决策影响的个人或机构。
+corp|share repurchase|股份回购|公司买回自己发行在外的股份。|buyback,repurchases
+corp|treasury shares|库存股|公司回购并持有、尚未注销且通常不具备外部股东权利的股份。
+corp|economic profit|经济利润|在税后经营利润中扣减全部投入资本的机会成本。
+corp|invested capital|投入资本|企业为经营活动投入的资金，可用经营资产和经营负债等口径度量。
+corp|NOPAT|税后净营业利润|企业营业利润在扣除对应经营税负后所剩的利润。
+equity|common stock|普通股|对企业剩余资产和利润享有权利的股权证券，通常附有表决权。
+equity|preferred stock|优先股|就股息或清算通常优先于普通股、一般仍劣后于债权的股权证券。
+equity|cost of equity|股权资本成本|普通股投资者为承担预期风险要求的收益率。
+equity|capital asset pricing model|资本资产定价模型|以无风险利率加资产贝塔乘市场风险溢价估算要求收益率。|CAPM
+equity|equity risk premium|股权风险溢价|投资股票市场相对于无风险资产所要求的额外预期收益。
+equity|beta|贝塔|回归意义下资产回报对市场或其他指定因子回报变动的敏感度。
+equity|multifactor model|多因子模型|用多个共同因子及各自的暴露解释收益、风险或必要回报。|factor model
+equity|factor premium|因子溢价|投资者因承担指定定价因子风险而获得或要求的额外回报。
+equity|dividend discount model|股利折现模型|用未来预期股利的折现和估计股权价值。|DDM
+equity|Gordon growth model|戈登增长模型|假设股利无限期按固定增长率增长且折现率更高的股利估值模型。
+equity|payout ratio|股利支付率|分配给股东的股利占当期利润的比例。|pay out
+equity|retention ratio|留存率|当期利润中未作为股利分派而留在企业的比例。|retains
+equity|sustainable growth rate|可持续增长率|在稳定盈利能力与资本结构等假设下，常估为留存率乘 ROE。
+equity|forward P/E|远期市盈率|股价除以预测期每股收益。
+equity|trailing P/E|过去市盈率|股价除以最近历史期间的每股收益，常用过去 12 个月。
+equity|enterprise value|企业价值|经营业务对各资本提供者的市场价值，常由市值加债务等再扣除超额现金估算。
+equity|EV/EBITDA|企业价值倍数|用企业价值除以未扣利息、税、折旧和摊销的利润。
+equity|free cash flow to equity|股权自由现金流|经营和投资后、计入净举债等影响可供普通股股东取得的现金流。|FCFE
+equity|terminal value|终值|明确预测期末对后续全部现金流评估的价值。
+equity|market capitalization|权益市值|流通在外普通股数量乘市场价格。|market cap
+equity|limit order|限价委托|设置最高买价或最低卖价的委托，成交受流动性与价格约束。
+equity|market order|市价委托|以可得到的市场价格尽快成交的指令，成交价格可能变动。
+equity|bid-ask spread|买卖价差|可成交的最优卖价与最优买价之间的差额。
+equity|market-cap weighting|市值加权|按成分证券市值或可投资流通市值占比确定指数权重。|market-cap-weighted
+equity|semi-strong-form efficiency|半强式有效|证券价格已经吸收全部公开信息的市场有效性假设。|semi-strong-form market efficiency
+equity|equity valuation|股权估值|以现金流、市场比较或资产价值等方法估算权益价值。
+equity|investment thesis|投资论点|用可验证的经营或估值假设解释某项证券投资的理由。|thesis
+equity|competitive advantage|竞争优势|帮助企业保护或提高相对盈利能力的资源、规模、品牌或成本结构等因素。
+equity|switching costs|转换成本|客户更换供应商或平台所需的时间、费用和迁移风险。
+equity|return on invested capital|投入资本回报率|税后净营业利润相对于经营投入资本的比率。|ROIC
+fixed|face value|面值|债务合同上用于确定本金偿还或计算票息的名义金额。|face amount,par value
+fixed|coupon rate|票息率|合同约定的年票息与名义本金之比。
+fixed|coupon payment|票息支付|债券根据合同按期支付给持有者的利息。|coupon
+fixed|yield to maturity|到期收益率|以当前价格作为现值、用合同现金流求得的统一折现率。|YTM
+fixed|current yield|当期收益率|年度票息额除以债券当前市场价格。
+fixed|discount bond|折价债券|当前价格低于面值的债券。
+fixed|premium bond|溢价债券|当前价格高于面值的债券。
+fixed|zero-coupon bond|零息债券|不定期付息、通常以折价发行并到期支付面值的债券。
+fixed|spot rate|即期利率|从估值日到特定到期时点的零息折现利率。|spot curve,spot rates
+fixed|forward rate|远期利率|约定的未来期间起点与终点之间的利率，可由即期利率曲线隐含推出。
+fixed|yield curve|收益率曲线|显示信用或其他属性可比的工具在不同期限上的收益率。
+fixed|term spread|期限利差|两个不同期限收益率之间的差，通常以长期减短期计算。
+fixed|credit spread|信用利差|信用风险较高债券与可比基准的收益率差，也可能反映流动性等其他因素。|yield spread
+fixed|Macaulay duration|麦考利久期|按每笔现金流现值占总现值的比重加权计算的平均收款期限。
+fixed|modified duration|修正久期|债券价格对收益率小幅变化的一阶相对敏感度。
+fixed|effective duration|有效久期|通过基准利率冲击后的估值变化近似价格敏感度，可适用于期权影响现金流的工具。
+fixed|key rate duration|关键利率久期|债券价值对曲线上某一关键期限利率变化的局部敏感度。
+fixed|convexity|凸性|反映债券价格对收益率变化的二阶敏感度，用于改进较大变动的估算。
+fixed|basis point|基点|利率与利差单位，1 个基点等于 0.01 个百分点。|bp,basis points
+fixed|reinvestment risk|再投资风险|未来收入以低于原假设的利率重新投资的风险。|coupon reinvestment risk
+fixed|callable bond|可赎回债券|发行人在合同条件下可以提前偿还的债券。
+fixed|putable bond|可回售债券|持有人在合同条件下可要求发行人提前偿还的债券。
+fixed|default probability|违约概率|在指定期间发生定义中违约事件的概率。|PD
+fixed|loss given default|违约损失率|债务违约后未能收回的损失相对于违约风险暴露的比例。|LGD
+fixed|exposure at default|违约风险暴露|发生违约时预计尚未结清的敞口金额。|EAD
+fixed|expected loss|预期信用损失|简化单期模型下可用违约概率、违约损失率与风险暴露的乘积估计。
+fixed|senior debt|高级债务|在约定受偿顺位中优先于次级债务的债权。
+fixed|subordinated debt|次级债务|在约定受偿顺位中劣后于高级债务的债权。
+fixed|covenant|债务契约条款|债券或贷款合同中约束发行人行为、指标或信息披露的约定。
+fixed|floating-rate note|浮动利率债券|票息定期按照参考利率与约定利差重设的债券。
+deriv|derivative|衍生品|价值取决于标的资产、利率、指数或事件等变量的合约。
+deriv|underlying|标的|决定衍生品价值或支付的资产、利率、指数或变量。
+deriv|notional amount|名义本金|用来计算衍生品支付的参考金额，通常不等于初始投入。|notional
+deriv|forward contract|远期合约|双方约定未来按事先确定条件交易标的的双边合约。|forward
+deriv|futures contract|期货合约|通过交易所及清算机制交易、按标准规格与保证金规则执行的合约。|futures
+deriv|delivery price|交割价|远期合约约定到期买卖标的所使用的价格。
+deriv|forward price|远期价格|当前市场上新签订远期合约时使初始价值为零的交割价格。
+deriv|forward value|远期价值|合约签订后根据当前远期价格、原交割价和折现等因素重估的价值。
+deriv|long position|多头|在标的价格上升时通常获益的头寸，具体取决于合约结构。|long forward
+deriv|short position|空头|在标的价格下降时通常获益的头寸，具体取决于合约结构。|short futures
+deriv|mark-to-market|逐日盯市|按当前市场价格重新计量头寸，期货通过保证金安排结算变动。
+deriv|margin account|保证金账户|持有清算抵押资金并反映结算损益的交易账户。|margin accounts
+deriv|variation margin|变动保证金|按市场价值变化在交易各方之间收付的保证金款项。
+deriv|call option|看涨期权|买方拥有按执行价买入标的或取得相应现金结算的权利。|call,long call
+deriv|put option|看跌期权|买方拥有按执行价卖出标的或取得相应现金结算的权利。|put,long put
+deriv|strike price|执行价|期权行权时用于买卖标的或确定结算金额的合约价格。|strike
+deriv|option premium|期权权利金|期权买方向卖方支付以获取权利的初始价格。
+deriv|European option|欧式期权|只能在到期日行权的期权。
+deriv|American option|美式期权|通常可以在到期日或此前允许日期行权的期权。
+deriv|intrinsic value|内在价值|期权按当前标的价格立即行权所对应的非负价值。
+deriv|put-call parity|看跌看涨平价|在适用条件下，匹配的欧式看涨、看跌、标的和执行价折现值之间的无套利关系。
+deriv|interest rate swap|利率互换|双方按约定本金交换不同计息方式产生的利息现金流。
+deriv|fixed leg|固定端|互换合约中按约定固定利率计算支付的一侧。|pay fixed,receive fixed
+deriv|floating leg|浮动端|互换合约中与参考利率重设挂钩的一侧。|pay floating,receive floating
+deriv|basis risk|基差风险|套期工具与被套期对象价格变动不完全匹配所产生的风险。
+deriv|cross hedge|交叉套期保值|用与被套期风险相关但并非同一标的的合约对冲。
+deriv|arbitrage|套利|利用等价经济头寸定价差异获得无风险收益的理论策略。|no arbitrage,no-arbitrage
+deriv|counterparty risk|交易对手风险|合同对方无法按约履行义务造成损失的风险。|counterparty defaults
+deriv|protective put|保护性看跌|持有标的同时买入看跌期权，以保留上行并设置下行保护。
+deriv|payoff|到期收益|给定到期标的价格，合约在到期结算的金额，通常尚未扣除初始成本。
+alt|alternative investment|另类投资|相对于传统公开股票、债券和现金的投资类型，如私募、房地产和商品。
+alt|private equity|私募股权|对不在公开市场交易或拟私有化企业进行的权益资本投资。
+alt|venture capital|风险投资|对早期或偏早期高成长企业提供的权益资本。|venture
+alt|leveraged buyout|杠杆收购|用较高比例债务融资取得公司控制权的收购。|LBO
+alt|limited partner|有限合伙人|通常投入资金并承担有限责任、较少参与基金日常管理的投资者。|LP
+alt|general partner|普通合伙人|管理合伙基金、作出投资决策并承担约定责任的一方。|GP
+alt|capital commitment|认缴资本|投资者按协议承诺在基金需要时可被要求缴付的金额。
+alt|capital call|资本催缴|基金管理人按约定要求投资者实际缴付部分承诺资本。|calls capital
+alt|distribution waterfall|分配瀑布|按照返还本金、优先收益、业绩分成等顺序分配基金回款的规则。
+alt|carried interest|业绩分成|普通合伙人或管理人按协议从基金收益取得的分配份额。
+alt|preferred return|优先收益|通常在管理人分成前优先分给投资者的约定回报。
+alt|management fee|管理费|管理人按协议以资产或认缴资本等为计费基数收取的费用。
+alt|incentive fee|业绩报酬|按投资业绩及约定门槛等条件计取的费用。
+alt|high-water mark|高水位线|用于防止对恢复至既往计费峰值的增值重复计费的净值门槛。
+alt|J-curve effect|J 曲线效应|私募基金前期费用或投资先于退出回款，净业绩可能先降后升。|J-curve
+alt|lockup period|锁定期|投资者通常不能按常规条件赎回所投份额的一段时间。|lockup
+alt|redemption gate|赎回限制|按合同临时或持续限制一定期间可赎回比例或金额的安排。
+alt|hedge fund|对冲基金|采用较灵活策略、可能使用卖空和杠杆的一类集合投资工具。
+alt|market-neutral strategy|市场中性策略|对冲投资组合的大部分市场方向暴露，以获取较独立的收益。
+alt|capitalization rate|资本化率|在直接资本化估值中，稳定净营业收入与物业价值之比。|cap rate
+alt|net operating income|净营业收入|物业收入减去日常运营费用，一般不扣融资利息与所得税。|NOI
+alt|equity REIT|权益型房地产投资信托|主要投资并经营收益性房地产资产的信托或公司结构。|listed equity REIT,REIT
+alt|appraisal smoothing|估值平滑|非频繁估值或沿用前期信息使报告回报波动小于即时市场波动。
+alt|contango|期货正向市场|常指较远月期货价格高于近月价格的期限结构。
+alt|backwardation|期货反向市场|常指较远月期货价格低于近月价格的期限结构。
+alt|roll return|展期收益|持续持有合约并更换到期月份时，期货期限结构带来的收益成分。|roll component,roll yield
+alt|commodity|大宗商品|可按统一规格交易的原材料或初级产品，如原油、铜和小麦。
+alt|infrastructure investment|基础设施投资|投资于为经济活动提供长期公共或商业服务的实体资产。
+alt|regulatory risk|监管风险|法规、收益上限或许可要求变化影响现金流与价值的风险。
+alt|survivorship bias|幸存者偏差|排除失败或终止样本导致分析不再代表原始总体。
+portfolio|investment policy statement|投资政策声明|记录投资目标、约束、政策配置、职责和评估规则的书面文件。|IPS
+portfolio|liquidity requirement|流动性要求|组合需在指定时间以合理成本提供现金的程度。|liquidity requirements
+portfolio|time horizon|投资期限|投资政策需覆盖的时间跨度，可按支出和生命周期划分。
+portfolio|risk tolerance|风险承受水平|投资者可接受的风险，由承担能力和承担意愿共同决定。
+portfolio|ability to take risk|风险承担能力|期限、资产负债和支出等客观条件允许承担的风险量。
+portfolio|willingness to take risk|风险承担意愿|投资者在心理上愿意接受风险和损失的程度。
+portfolio|strategic asset allocation|战略资产配置|基于长期投资目标为各资产类别指定政策权重。
+portfolio|tactical asset allocation|战术资产配置|因短期市场判断有意暂时偏离政策资产权重。
+portfolio|rebalancing|再平衡|交易或使用新增现金把偏离的组合权重拉回目标范围。|rebalance
+portfolio|expected portfolio return|组合期望收益率|各资产期望收益率按组合权重加总。|expected return
+portfolio|mean–variance efficiency|均值方差有效性|可行组合中不存在同风险收益更高或同收益风险更低的替代组合。|mean–variance efficient
+portfolio|efficient frontier|有效前沿|均值方差有效组合构成的风险与预期收益集合。
+portfolio|global minimum-variance portfolio|全局最小方差组合|在设定资产集合和约束下使总方差最小的可行组合。
+portfolio|systematic risk|系统性风险|由于共同市场驱动因素而无法通过一般分散化消除的风险。|systematic market risk
+portfolio|idiosyncratic risk|特质风险|来自单一企业或资产的特定风险，可通过分散配置降低。|firm-specific risk
+portfolio|diversification|分散化|组合不完全同向波动的资产，以降低集中风险或组合波动。
+portfolio|Sharpe ratio|夏普比率|用投资超额收益除以收益波动率衡量单位总风险回报。
+portfolio|tracking error|跟踪误差|组合收益与基准收益之差的标准差。
+portfolio|active return|主动收益|组合收益减去基准收益。
+portfolio|information ratio|信息比率|以平均主动收益除以跟踪误差，衡量单位主动风险获得的收益。
+portfolio|benchmark|业绩基准|用于比较投资表现或约束偏离的参考组合或指数。
+portfolio|value at risk|风险价值|给定期限和置信水平的损失分位数估计。|VaR
+portfolio|expected shortfall|预期短缺|在给定置信水平对应的最坏尾部中，估计损失的平均值。
+portfolio|stress testing|压力测试|施加极端但有明确含义的冲击，评估组合或融资安排承压的后果。
+portfolio|maximum drawdown|最大回撤|指定期间从历史峰值到其随后最低点的最大百分比跌幅。
+portfolio|risk budgeting|风险预算|给不同来源分配可接受的风险，并按其对总风险的贡献监测。
+portfolio|performance attribution|业绩归因|把相对于基准的表现拆解为配置、选择等驱动部分。
+portfolio|mental accounting|心理账户|将可替代资金按来源或用途心理分组，并为各组使用不同决策规则。
+portfolio|loss aversion|损失厌恶|相同金额的损失通常对主观感受的影响强于同等收益。
+portfolio|anchoring bias|锚定偏差|过度受初始参考值影响，获得新信息后调整不足。
